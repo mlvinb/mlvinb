@@ -1,6 +1,6 @@
 # Hi there, I'm Melvin 👋
 
-## I'm a Student, Guitarist and Web Developer!
+## I'm a Student, Graphic Designer and Web Developer!
 
 - 🌱 I’m currently learning `Python`
   
