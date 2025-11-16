@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning `Python`
   
-- ❤️ I love to draw, `code`, 3D modeling and to learn new things
+- ❤️ I love to design, `code`, 3D modeling and to learn new things
 
 
 
