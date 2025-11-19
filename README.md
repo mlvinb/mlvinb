@@ -23,7 +23,7 @@
 <img align="left" alt="JS" width="26px" src="https://github.com/user-attachments/assets/2d671861-2f0d-4af6-a068-03f65bd92fd9" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/user-attachments/assets/e17c1d8b-e78e-4b19-9c0c-01196731db25" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-# <img align="left" alt="Spyder" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-plain.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="Spyder" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-plain.svg" style="padding-right:10px;" /> -->
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
