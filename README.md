@@ -2,7 +2,7 @@
 
 ## I'm a Student, Graphic Designer and Web Developer!
 
-- 🌱 I’m currently learning `Python` `Next.js`
+- 🌱 I’m currently learning `Python` `JS`
   
 - ❤️ I love to design, `code`, 3D modeling and to learn new things
 
